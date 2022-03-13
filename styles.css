@@ -1,0 +1,28 @@
+
+h2{
+    color: black;
+    font-family:Arial, Helvetica, sans-serif;
+    padding: 0px;
+}
+h3{
+    color: black;
+    font-family:Arial, Helvetica, sans-serif;
+    padding: 0px;
+}
+button{
+    color:white;
+    background-color: green;
+}
+div{
+    width: 364px;
+    margin: 10px;
+}
+input{
+    padding:8px;
+}
+button{
+    padding: 8px;
+    width: 75px;
+    border-radius: 2px;
+    border-color: green;
+}
